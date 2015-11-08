@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MacMan]]></title>
-        <description><![CDATA[MacMan]]></description>
+        <title><![CDATA[Apple Mac Man]]></title>
+        <description><![CDATA[Apple Mac Man]]></description>
         <link>https://thegrid.ai/macman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 10:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2015 18:19:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/macman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/macman/10f4d189-f5a5-4250-bd56-234e456e2d31/index.html</link>
             <guid isPermaLink="false">10f4d189-f5a5-4250-bd56-234e456e2d31</guid>
             <pubDate>Sun, 08 Nov 2015 10:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Upgrade your iMac or MacBook Pro to an SSD hard drive and end the sluggish stutter of your old Hard Drive.  Increases boot up times and dramatically improves computer performance and responsiveness, browse through iPhoto without the buffer. Reduce heat and fan noise.  Your Mac will feel young again    256GB SSD inc Labour and Transfer of Data for £235  512GB SSD inc Labour and Transfer of Data for  £295  1TB SSD inc labour and transfer of data.  £445</p>]]></description>
-            <link>https://thegrid.ai/macman/upgrade-your-imac-or-macbook-pro-to-an-ssd-hard-drive-and-en/index.html</link>
-            <guid isPermaLink="false">92eee466-713c-40ac-948f-ecce8aa9b090</guid>
-            <pubDate>Sun, 08 Nov 2015 10:23:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
