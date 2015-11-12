@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Apple Mac Man]]></title>
+        <description><![CDATA[Apple Mac Man]]></description>
+        <link>https://thegrid.ai/macman/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 Nov 2015 08:20:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/macman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.applemacman.co.uk/home/wp-content/uploads/2013/03/Apple-Mac-Man-Logo2.png">]]></description>
+            <link>https://thegrid.ai/macman/98-admirals-walk-west-cliff-rd-bournemouth-dorset-bh2-5hf-t/index.html</link>
+            <guid isPermaLink="false">3db4fe9b-2b47-47a4-b213-8160435f8ccd</guid>
+            <pubDate>Sun, 08 Nov 2015 10:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.applemacman.co.uk/home/wp-content/uploads/2015/01/IMG_9545-300x300.jpg">]]></description>
+            <link>https://thegrid.ai/macman/10f4d189-f5a5-4250-bd56-234e456e2d31/index.html</link>
+            <guid isPermaLink="false">10f4d189-f5a5-4250-bd56-234e456e2d31</guid>
+            <pubDate>Sun, 08 Nov 2015 10:23:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
